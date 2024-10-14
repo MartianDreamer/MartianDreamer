@@ -32,8 +32,6 @@ I have ❤️ for software development and how 💻 work ️
 ```
 
 ![MartianDreamer's Stats](https://github-readme-stats.vercel.app/api?username=MartianDreamer&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
-![MartianDreamer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartianDreamer&theme=gruvbox&hide_border=true)
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nguyenxuansang9494)
 
 ## 📫 How to reach me
