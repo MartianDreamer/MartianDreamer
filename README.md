@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Sang 👋
 
-<!--
-**MartianDreamer/MartianDreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MartianDreamer.MartianDreamer)
 
-Here are some ideas to get you started:
+```json
+{
+    "name": "Sang Nguyen",
+    "skill": [
+        "Java",
+        "JavaScript",
+        "Spring Framework",
+        "Quarkus",
+        "Jakarta EE",
+        "Hibernate",
+        "MS SQL Server",
+        "Kafka",
+        "Azure",
+        "AWS",
+        "Docker",
+        "Git"
+    ],
+    "languague": [
+        "English",
+        "Vietnamese"
+    ]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
