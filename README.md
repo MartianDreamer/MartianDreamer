@@ -31,15 +31,10 @@ I have ❤️ for software development and how 💻 work ️
 }
 ```
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 ![MartianDreamer's Stats](https://github-readme-stats.vercel.app/api?username=MartianDreamer&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
 ![MartianDreamer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartianDreamer&theme=gruvbox&hide_border=true)
 
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nguyenxuansang9494)
-
 
 ## 📫 How to reach me
 
