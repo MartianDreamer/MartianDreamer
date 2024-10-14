@@ -27,12 +27,14 @@ I have ❤️ for software development and how 💻 work ️
     "languague": [
         "English",
         "Vietnamese"
-    ]
+    ],
+    "active_from": 1614042000
 }
 ```
 
-![MartianDreamer's Stats](https://github-readme-stats.vercel.app/api?username=MartianDreamer&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
-![Leetcode Stats](https://leetcard.jacoblin.cool/nguyenxuansang9494)
+![MartianDreamer's Stats](https://github-readme-stats.vercel.app/api?username=MartianDreamer&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/nguyenxuansang9494?theme=unicorn&ext=activity)
 
 ## 📫 How to reach me
 
