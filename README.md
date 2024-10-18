@@ -5,7 +5,7 @@
 
 ## 👋 Hello, I'm **Sang**
 
-I have ❤️ for software development and how 💻 work ️
+I have ❤️❤️❤️ for software development and how 💻 work ️
 
 ```json
 {
