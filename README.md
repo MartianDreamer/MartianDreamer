@@ -21,6 +21,7 @@ I have ❤️ for software development and how 💻 work ️
         "Kafka",
         "Azure",
         "AWS",
+        "Terraform",
         "Docker",
         "Git"
     ],
