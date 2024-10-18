@@ -4,7 +4,7 @@
 
 [MartianDreamer (Github)](https://github.com/martiandreamer)
 
-+84985470552
++84 985 470 552
 
 [nguyenxuansang9494@gmail.com](mailto:nguyenxuansang9494@gmail.com)
 
@@ -20,7 +20,7 @@ Data Structures • Algorithm • Java • JavaScript • Spring Framework • Q
 
 ## EXPERIENCE
 
-### Axon Active _\- Software Engineer_
+### Axon Active - _Software Engineer_
 
 Dec 2022 - Present
 
@@ -32,7 +32,7 @@ Dec 2022 - Present
 - Implement a service to decide which agent would support partners depending on their contract and location using Jakarta EE, OracleDB, Kafka.
 - Design and implement a service to update partners’ addresses via APIs provided by Swiss Post, which runs on Azure Kubernetes Service and use Azure SQL Databases, Kafka, and Azure Blob Storage.
 
-### KMS Technology, Inc _- Software Engineer_
+### KMS Technology, Inc - _Software Engineer_
 
 Jan 2022 - Dec 2022
 
@@ -44,7 +44,7 @@ Jan 2022 - Dec 2022
 - Work with Azure EventHub, Amazon SQS, Amazon S3, Amazon ECS.
 - Write Ansible scripts to deploy applications on on-premises servers.
 
-### FPT Software _- Developer_
+### FPT Software - _Developer_
 
 Feb 2021 - Dec 2021
 
@@ -52,14 +52,14 @@ Feb 2021 - Dec 2021
 - Working with Java, Spring Framework in eCovax project to support firms’ operation during Covid time.
 - Develop and customize user interface using JavaScript, HTML, CSS.
 
-### FPT Education _- QA_
+### FPT Education - _QA_
 
 Dec 2019 - Jan 2021
 
 - Improve work productivity using VBA to cut repetitive, non-value-added tasks.
 - Contribute to the automation process using Excel to increase the effectiveness and efficiency in the department’s work performance.
 
-### Personal Project _\- Developer_
+### Personal Project - _Developer_
 
 Dec 2019 - Present
 
@@ -73,11 +73,11 @@ Dec 2019 - Present
 
 ## EDUCATION
 
-### University of Information Technology, VNUHCM _\- Bachelor's Degree, Information Technology_
+### University of Information Technology, VNUHCM - _Bachelor's Degree, Information Technology_
 
 2021 - 2024
 
-### University Of Economics Ho Chi Minh City _\- Bachelor's degree, Business Administration and Management, General_
+### University Of Economics Ho Chi Minh City - _Bachelor's degree, Business Administration and Management, General_
 
 2015 - 2019
 
