@@ -2,9 +2,9 @@
 
 Software Engineer
 
-[Sang Nguyen | LinkedIn](https://www.linkedin.com/in/nguyenxuansang9494/)
+[Sang Nguyen (Linkedin)](https://www.linkedin.com/in/nguyenxuansang9494/)
 
-[MartianDreamer (Sang Nguyen) (github.com)](https://github.com/martiandreamer)
+[MartianDreamer (Github)](https://github.com/martiandreamer)
 
 +84985470552
 
