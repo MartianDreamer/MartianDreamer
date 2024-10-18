@@ -32,9 +32,9 @@ I have ❤️❤️❤️ for software development and how 💻 work ️
 }
 ```
 
-![MartianDreamer's Stats](https://github-readme-stats.vercel.app/api?username=MartianDreamer&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+![MartianDreamer's Stats](https://github-readme-stats.vercel.app/api?username=MartianDreamer&show_icons=true&theme=gruvbox)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/nguyenxuansang9494?theme=unicorn&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nguyenxuansang9494?ext=activity)
 
 ## 📫 How to reach me
 
