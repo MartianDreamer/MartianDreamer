@@ -8,7 +8,7 @@ Software Engineer
 
 +84985470552
 
-<nguyenxuansang9494@gmail.com>
+[nguyenxuansang9494@gmail.com](mailto:nguyenxuansang9494@gmail.com)
 
 ## OVERALL
 
