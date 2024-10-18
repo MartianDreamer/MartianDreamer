@@ -21,7 +21,6 @@ I have ❤️ for software development and how 💻 work ️
         "Kafka",
         "Azure",
         "AWS",
-        "Terraform",
         "Docker",
         "Git"
     ],
@@ -42,3 +41,7 @@ I have ❤️ for software development and how 💻 work ️
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/y2NPpF1T7mil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenxuansang9494/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenxuansang9494@gmail.com)
+
+## 🗒️ My Resume
+
+Check it [**here**](./resume.md)
