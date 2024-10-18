@@ -1,6 +1,4 @@
-# SANG NGUYEN
-
-Software Engineer
+# SANG NGUYEN - SOFTWARE ENGINEER
 
 [Sang Nguyen (Linkedin)](https://www.linkedin.com/in/nguyenxuansang9494/)
 
