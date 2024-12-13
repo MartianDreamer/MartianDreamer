@@ -89,4 +89,4 @@ Dec 2019 - Present
 
 ### [Divide and Conquer, Sorting and Searching, and Randomized Algorithms - _Coursera_](https://www.coursera.org/account/accomplishments/verify/X9RJXD2WER77)
 
-### [CS50x 2020 - CS50](https://certificates.cs50.io/fddb4b17-c5ae-4c52-ac9d-d9bfccda1024.pdf?size=letter)
+### [CS50x 2020 - _CS50_](https://certificates.cs50.io/fddb4b17-c5ae-4c52-ac9d-d9bfccda1024.pdf?size=letter)
