@@ -12,7 +12,7 @@ I have ❤️❤️❤️ for software development and how 💻 work ️
     "name": "Sang Nguyen",
     "skill": [
         "Java",
-        "Typescript",
+        "TypeScript",
         "Spring Framework",
         "Quarkus",
         "Jakarta EE",
