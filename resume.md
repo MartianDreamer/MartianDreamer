@@ -90,3 +90,5 @@ Dec 2019 - Present
 ### [Divide and Conquer, Sorting and Searching, and Randomized Algorithms - _Coursera_](https://www.coursera.org/account/accomplishments/verify/X9RJXD2WER77)
 
 ### [CS50x 2020 - _CS50_](https://certificates.cs50.io/fddb4b17-c5ae-4c52-ac9d-d9bfccda1024.pdf?size=letter)
+
+### [IELTS 7.5 - _IELTS_](https://github.com/MartianDreamer/MartianDreamer/blob/main/VN02824513927-14-12-2024-ETRF.pdf)
