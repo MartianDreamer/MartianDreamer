@@ -21,11 +21,13 @@ I have ❤️❤️❤️ for software development and how 💻 work ️
         "Azure",
         "AWS",
         "Docker",
+        "Angular",
         "Git"
     ],
     "languague": [
         "English",
-        "Vietnamese"
+        "Tiếng Việt",
+        "Deutsch"
     ],
     "active_from": 1614042000
 }
